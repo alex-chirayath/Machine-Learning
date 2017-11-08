@@ -1,4 +1,3 @@
-This project was developed for CS 590 :Natural Language Processing
 
 Sentiement analysis is one of the hottest topics for the social media driven world.
 There are applications of this in several sectors such as reviews, social media posts as well as check text messages/emails
