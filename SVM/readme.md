@@ -23,6 +23,7 @@ y_1=test labels
 
 
 DataSet1. Bank Dataset
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 The original dataset consists of 2 csv files-
 1.Bank.csv(train data)
@@ -61,7 +62,7 @@ Section==>Cross Validtaion with Grid Search
 
 
 DataSet2. Virus Dataset
-
+https://archive.ics.uci.edu/ml/datasets/Detect+Malacious+Executable(AntiVirus)
 The original dataset consisted dataset.train and Tst.test files.
 Since the dataset had a marker of -1, we deleted it manually and converted the files to .txt files before processing
 Original Dataset= Dataset.train, we manually converted it to dataset_train.txt
@@ -78,6 +79,7 @@ Also, we do not have precision and recall in this dataset as we are running this
 
 
 DataSet 3 . Dorothea Dataset
+https://archive.ics.uci.edu/ml/datasets/dorothea
 We use prelim.py to preprocess  dorothra_train.txt and dorothea_valid.txt to generate dtrain.data.txt, dvalid.data.txt, dvalid.lables.txt, dtrain.lables.txt 
 
 The file to run is "third.py"
